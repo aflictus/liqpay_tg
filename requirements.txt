@@ -1,0 +1,5 @@
+liqpay
+aiogram
+requests
+pytz
+logging
